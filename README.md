@@ -3,7 +3,7 @@
 **Name of your app** là một bài tập 2 tại môn UDPT. Ứng dụng cho phép người dùng gửi tin nhắn (email) cho người dùng khác.
 
 Thành viên:
-* [ ] **1412269** Hà Mạnh Kiệt (KietHa)
+* [x] **1412269** Hà Mạnh Kiệt (KietHa)
 * [x] **1412282** Nguyễn Hoàng Lân (NguyenHoangLan)
 
 URL: **URL hosting của bài tập**
