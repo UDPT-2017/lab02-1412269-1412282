@@ -2,7 +2,7 @@ var aboutController = {
   index: function(req, res) {
     res.render('about/about', {
         title: 'About',
-        message: 'My About',
+        message: 'My Team',
     });
   }
 };
